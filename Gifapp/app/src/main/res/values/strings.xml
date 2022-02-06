@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Gif app</string>
+    <string name="error_msg">Произошла ошибка при загрузке данных. Проверьте подключение к сети.</string>
+    <string name="error_msg_again">Повторить</string>
+    <string name="title">Developers Life</string>
+</resources>
